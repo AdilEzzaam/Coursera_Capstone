@@ -1,20 +1,29 @@
-Boroughs,Coordinates
-Pierrefonds-Roxboro,45°30?N 73°48?W
-Côte-des-Neiges–Notre-Dame-de-Grâce,45.47617°N 73.62705°W
-Mercier-Hochelaga-Maisonneuve,45°34?03?N 73°31?32?W
-Verdun,45°27?N 73°34?W
-LaSalle,45°25?43?N 73°39?48?W
-Ville-Marie,45°30?31?N 73°33?46?W
-Lachine,45°25?54?N 73°40?30?W
-Saint-Laurent,45.502°N 73.707°W
-Saint-Leonard,45°35?09?N 73°35?46?W
-Southwest,45°27?21?N 73°35?33?W
-Outremont,45°31?N 73°37?W
-Montréal-Nord,45°36?N 73°37?W
-Rosemont-La Petite-Patrie,45°32?1.4?N 73°36?46.8?W
-Mont-Royal,45°31?18?N 73°34?32?W
-Ahuntsic-Cartierville,45.5350°N 73.7050°W
-L'Île-Bizard–Sainte-Geneviève,45°28?59?N 73°52?34?W
-Anjou,45°36?N 73°33?W
-Riviere-des-Prairies—Pointe-aux-Trembles,45°39?32?N 73°31?15?W
-Villeray—Saint-Michel—Parc-Extension,45°32?57?N 73°36?49?W
+Boroughs,Type
+Pierrefonds-Roxboro,B
+Cote-des-Neiges-Notre-Dame-de-Grace,B
+Mercier-Hochelaga-Maisonneuve,B
+Verdun,B
+LaSalle,B
+Ville-Marie,B
+Lachine,B
+Saint-Laurent,B
+Saint-Leonard,B
+Southwest,B
+Outremont,B
+Montreal-Nord,B
+Rosemont-La Petite-Patrie,B
+Mont-Royal,B
+Ahuntsic-Cartierville,B
+L'ile-Bizard-Sainte-Genevieve,B
+Anjou,B
+Riviere-des-Prairies-Pointe-aux-Trembles,B
+Villeray-Saint-Michel-Parc-Extension,B
+Cote Saint-Luc,T
+Beaconsfield,T
+Dorval,T
+Pointe-Claire,T
+Westmount,T
+Kirkland,T
+Baie-d'Urfe,T
+Montreal-Est,T
+Sainte-Anne-de-Bellevue,T
